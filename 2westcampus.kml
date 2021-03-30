@@ -13,7 +13,9 @@
       <outline>1</outline>
     </PolyStyle>
   </Style>
-    
+      <Folder>
+    <name>Area Features</name>
+    <description>Area Features</description>
  <Placemark>
       <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS108<BR><B>old_number</B> = sector10  43/10 8]]></description>
       <styleUrl>#area1</styleUrl>
@@ -638,5 +640,6 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+         </Folder>
   </Document>
 </kml>
