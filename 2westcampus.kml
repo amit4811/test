@@ -53,6 +53,20 @@
 		 </coordinates>
       </LineString>
     </Placemark>
+	      <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+	      77.9531153,27.2014388,0
+		77.9531153,27.2014388,0
+	  77.9538199,27.2015607,0
+	  77.9543591,27.2013138,0
+	  77.9543591,27.2013138,0
+		 </coordinates>
+      </LineString>
+    </Placemark>
          </Folder>
   </Document>
 </kml>
