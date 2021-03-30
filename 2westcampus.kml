@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="blueLine">
+    <LineStyle>
+      <color>FF000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+    
+ <Placemark>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+		77.9611027165,27.2021055187,0
+              77.9613272628,27.2020652056,0
+              77.9613576989,27.2022005206,0
+              77.9611332354,27.2022408355,0
+              77.9611315971,27.2022337651,0
+              77.9611204615,27.2021842794,0
+              77.9611099177,27.2021375122,0
+              77.9611027165,27.2021055187,0
+		 </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
