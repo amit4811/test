@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style id="area1">
+    <LineStyle>
+      <color>FF000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>BF000000</color>
+      <fill>0</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
 <Placemark>
       <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS1015<BR><B>old_number</B> = 43/10/15-16]]></description>
       <styleUrl>#area1</styleUrl>
@@ -35,3 +49,5 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+</Document>
+</kml>
