@@ -567,5 +567,76 @@
         </outerBoundaryIs>
       </Polygon>
     </Placemark>
+     <Placemark>
+      <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS5595A<BR><B>old_number</B> = 44/5/719]]></description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.9557416618,27.1970489058,0
+              77.9557302250,27.1970993443,0
+              77.9556130841,27.1970783993,0
+              77.9556148818,27.1970704114,0
+              77.9556248560,27.1970278780,0
+              77.9557416618,27.1970489058,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS5599A<BR><B>old_number</B> = 44/5/8 (COM)]]></description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.9555144240,27.1962583182,0
+              77.9555289472,27.1961983867,0
+              77.9557493017,27.1962384406,0
+              77.9557359015,27.1962876639,0
+              77.9557357132,27.1962884715,0
+              77.9557338324,27.1962964576,0
+              77.9555144240,27.1962583182,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS5594B<BR><B>old_number</B> = ]]></description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.9557338324,27.1962964576,0
+              77.9557203804,27.1963537067,0
+              77.9555009378,27.1963137627,0
+              77.9555144240,27.1962583182,0
+              77.9557338324,27.1962964576,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Area Type<BR><BR><B>ID</B> = 75WS5564A<BR><B>old_number</B> = ]]></description>
+      <styleUrl>#area1</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.9565660689,27.1983674582,0
+              77.9565868886,27.1982564352,0
+              77.9566368867,27.1982655486,0
+              77.9566143358,27.1983759928,0
+              77.9565660689,27.1983674582,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
   </Document>
 </kml>
