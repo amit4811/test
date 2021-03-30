@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>KmlFile</name>
-    <Style id="area1">
+    <Style id="blueLine">
     <LineStyle>
       <color>FF000000</color>
       <width>1</width>
@@ -15,18 +15,21 @@
   </Style>
     
  <Placemark>
-      <name>Google West Campus 3</name>
-      <styleUrl>#area1</styleUrl>
-      <ExtendedData>
-        <Data name="video">
-          <value><![CDATA[<iframe width="480" height="360"
-            src="https://www.youtube.com/embed/0hhiEjf7_NA" frameborder="0"
-            allowfullscreen></iframe><br><br>]]></value>
-        </Data>
-      </ExtendedData>
-      <Point>
-        <coordinates>27.183333,78.016667,0</coordinates>
-      </Point>
+      <name>Blue Line</name>
+      <styleUrl>#blueLine</styleUrl>
+      <LineString>
+        <altitudeMode>relative</altitudeMode>
+        <coordinates>
+		77.9611027165,27.2021055187,0
+              77.9613272628,27.2020652056,0
+              77.9613576989,27.2022005206,0
+              77.9611332354,27.2022408355,0
+              77.9611315971,27.2022337651,0
+              77.9611204615,27.2021842794,0
+              77.9611099177,27.2021375122,0
+              77.9611027165,27.2021055187,0
+		 </coordinates>
+      </LineString>
     </Placemark>
   </Document>
 </kml>
